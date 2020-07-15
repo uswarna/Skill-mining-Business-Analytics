@@ -1,0 +1,470 @@
+﻿web-scraper-order,web-scraper-start-url,job_title,job_title-href,job_compay,job_location,job_description,title
+"1579460170-4693","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Manager | Senior Business Analytics Manager","https://www.indeed.co.in/rc/clk?jk=4f40ec867bd961b0&fccid=95fa2b94b684ec6b&vjs=3","","Bengaluru, Karnataka","",""
+"1579460193-4724","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analyst/ Manager","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DqGgu-faEbBWMchzyPLP9Vj4J3N3T6jUHOrZsFY-BAIG0hzx8_GP5VWPiksXlisx80xvIN9xHbYParqoZFwPGmdHLslsvSgEboQd1NG5KCXw0Vn-DZr8RlfjXrV-6kC1JLg33QK2v-VDbMI_QuAm7ODk0L8Mu4QBc4aQEqzwzZqyX_GoiZ9W5UjRAe7z7KRaci7ABtv7ZTFgNzxcBMPvp0I95nvTv0l1ze_05BdIYWX6ujS5sAIibS6WIzY-7r6dX3x_XCrMcRgvqGbJmYMxO3vDto74xC8oFBOF5bOl6eJ0Aoo1d20iUf0b7QSM3wP0Rx8hMIV616mdADxySpLWM9f6o-TnkxuI6vT0Cu5tJ-HuGdxMsDzgRkqXmEV-5S6XjQ7nv3HiGqApcri9fzQk5MUq8cv6lT5qqRZbB3MRnR2g==&p=1&fvj=0&vjs=3","Sutherland6,446 reviews","","",""
+"1579460158-4678","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Data Scientist","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DdajEbCx-KXIxdKnFi7XLqE9Qtjjzr22qLs4cyUK8MQF4nVAY29gg5zMlraYgZpSPvyDiNxWKulPlE1J0TmJQ5WH7p1JJwz6Upyx2QE1NpLRlf0BP-FvUikJXY3BigFQlVc10vnNLytl77bWpYcUGtTVEYD3r7P_PiKSwQm-3OMKmCFYw16OBvRSFhUU1d_aodblpOz4uGdNlkvScM8axYkF-kP6pAkOL0igvjIsxE_1h8QDH2MpuZ_kzay6Q68p2qLvv59X00UOgBgcpw2PTqv-VbJw9uoXar_E1_x5GM1Wywwm1wBBtq9VBkCIFGjkz_zJMX_m1bW_GXn93M-Z-Ju-Ni_2x4jImb-ajJ4VYZv6UlsHrDyDjEPz7T7ahSDwBtKkscV4_FAipnnwSIx7QyaOjsM9Oa_OV8SKb7JTcQaw_5qCviN6Y5&p=13&fvj=1&vjs=3","","","Job Summary
+Job Summary
+- We are looking for an experienced Senior Data Scientist with extensive predictive Modeling and machine learning experience to join our Analytics and Insights Team, which applies advanced Data Science (DS), Artificial Intelligence (AI) and Machine Learning (ML) to produce solutions that drive marketing optimization and sales growth.
+- Using state of the art AI tools, DS platforms, ML libraries, and optimization tools, we leverage internal, external, online and offline data sources.
+- The person in this role would be responsible for conducting data analysis and developing predictive models leveraging data science and machine learning to solve various business use cases, including marketing intelligence, customer segmentation, and predictive models for sales and marketing organization. We are looking for a candidate who will support our product, sales, leadership and marketing teams with insights gained from analyzing the company and external data.
+- Who can communicate with others with a statistical mindset, and can conduct exploratory analysis during data preparation and beyond.
+- The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action.- They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations.- They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams.- The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.Responsibilities and Duties
+Responsibilities and Duties
+- Understand the business problem in Global B2B marketing and sales analytics domains to create value for the business, clients, customers, and providers, and identify critical questions that can be answered with AI or DS.
+- Scrub, clean, prepare and browse the data: fill in missing data values, determine outliers, regularize and normalize the data (e.g., names), engineer features, and transform it into a more useful form.
+- Explore and visualize the data using tools such as Python modules including pandas, matplotlib, bokeh, and Seaborn, Tableau, and Looker.
+- Build, evaluate, and document the models
+- Generate plausible explanations for presentation to stakeholders and deployment.
+- Communicate results and ideas to key decision-makers
+- Work with data engineers to deploy the models, build data pipelines, and scalable systems.
+- Work with stakeholders to identify opportunities for leveraging company data to drive business analytics solutions.
+- Research and develop statistical learning models for data analysis
+- Identify valuable data sources and automate collection processes-
+- Undertake preprocessing of structured and unstructured data
+- Analyze large amounts of information to discover trends and patterns
+- Build predictive models and machine-learning algorithms
+- Present information using data visualization techniques
+- Collaborate with sales, marketing, and senior executive teams
+Qualifications and Skills
+Required Experience, Skills and Qualifications
+- Minimum 3-5 years of relevant experience
+- MS/Ph.D. in Computer Science, Math, Statistics, or in any technical field that provides a solid basis for analytics or equivalent work experience
+- Excellent understanding/experience with leading machine learning methods such as neural networks, deep learning, KNN, Naive Bayes, SVM, Lasso Regression, Elastic Net Regression, Boosting and Bagging Random Forest, XGBoost, Association Rules, Cross-Validation Method, and Unsupervised Learning and their real-world advantages/drawbacks.
+- Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.
+- Experience with Hive and database access languages such as SQL and storage platforms such as S3.
+- Experience with distributed computing platforms such as Hadoop and Spark is a plus.
+- Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.
+- Experience using advanced statistical techniques and concepts (regression, properties of distributions, statistical tests, and proper usage, etc.) and experience with applications.
+- Experience using business intelligence tools (e.g. PowerBI, Tableau) and data frameworks (e.g. SAS, Tera Data, Hadoop)
+- Strong problem-solving skills with an emphasis on sales and marketing predictive analytics.
+- Excellent written and verbal communication skills for coordinating across teams.
+- A drive to learn and master new technologies and techniques.
+Job Type: Full-timeJob Type: Full-timeExperience:work: 3 years (Preferred)total work: 3 years (Preferred)Education:Bachelor's (Required)",""
+"1579460193-4725","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analyst/ Manager","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DqGgu-faEbBWMchzyPLP9Vj4J3N3T6jUHOrZsFY-BAIG0hzx8_GP5VWPiksXlisx80xvIN9xHbYParqoZFwPGmdHLslsvSgEboQd1NG5KCXw0Vn-DZr8RlfjXrV-6kC1JLg33QK2v-VDbMI_QuAm7ODk0L8Mu4QBc4aQEqzwzZqyX_GoiZ9W5UjRAe7z7KRaci7ABtv7ZTFgNzxcBMPvp0I95nvTv0l1ze_05BdIYWX6ujS5sAIibS6WIzY-7r6dX3x_XCrMcRgvqGbJmYMxO3vDto74xC8oFBOF5bOl6eJ0Aoo1d20iUf0b7QSM3wP0Rx8hMIV616mdADxySpLWM9f6o-TnkxuI6vT0Cu5tJ-HuGdxMsDzgRkqXmEV-5S6XjQ7nv3HiGqApcri9fzQk5MUq8cv6lT5qqRZbB3MRnR2g==&p=1&fvj=0&vjs=3","","Hyderabad, Telangana","",""
+"1579460181-4709","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Internship","https://www.indeed.co.in/rc/clk?jk=d960a9e9127b30f5&fccid=9ccd90e7721aa0ab&vjs=3","","Bengaluru, Karnataka","",""
+"1579460172-4699","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics consultant (Advance Analytics)","https://www.indeed.co.in/rc/clk?jk=47cfd0008b720653&fccid=6742d0c4775028dd&vjs=3","","","","Business Analytics consultant (Advance Analytics)"
+"1579460167-4689","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Concur-Business Analyst","https://www.indeed.co.in/rc/clk?jk=f61ac44b07442305&fccid=8d25321c1defe73f&vjs=3","","Bengaluru, Karnataka","",""
+"1579460170-4692","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Manager | Senior Business Analytics Manager","https://www.indeed.co.in/rc/clk?jk=4f40ec867bd961b0&fccid=95fa2b94b684ec6b&vjs=3","Cerner Corporation1,452 reviews","","",""
+"1579460162-4681","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Head - Business Analytics","https://www.indeed.co.in/rc/clk?jk=603e1edb16fc7ce0&fccid=4d4dc796bd7ac23e&vjs=3","","Hyderabad, Telangana","",""
+"1579460181-4711","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Internship","https://www.indeed.co.in/rc/clk?jk=d960a9e9127b30f5&fccid=9ccd90e7721aa0ab&vjs=3","","","","Business Analytics Internship"
+"1579460186-4716","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Consultant","https://www.indeed.co.in/rc/clk?jk=e40601f41f2e2293&fccid=f8c591fec900fe57&vjs=3","Logix Microsystems7 reviews","","",""
+"1579460175-4700","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Analytics Practice Lead - Business Analytics","https://www.indeed.co.in/rc/clk?jk=f7df5dc70ca8e113&fccid=e4af9ca5b6d3a604&vjs=3","Philips3,408 reviews","","",""
+"1579460170-4695","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Manager | Senior Business Analytics Manager","https://www.indeed.co.in/rc/clk?jk=4f40ec867bd961b0&fccid=95fa2b94b684ec6b&vjs=3","","","","Manager | Senior Business Analytics Manager"
+"1579460175-4701","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Analytics Practice Lead - Business Analytics","https://www.indeed.co.in/rc/clk?jk=f7df5dc70ca8e113&fccid=e4af9ca5b6d3a604&vjs=3","","Bengaluru, Karnataka","",""
+"1579460164-4686","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Intermediate analyst - business analytics","https://www.indeed.co.in/rc/clk?jk=1cf23ac8ad2b2c8e&fccid=5bcd1ef0a7f4fb99&vjs=3","","","The Spec Analytics Intmd Analyst will be part of the commercial banking analytics team within the Analytics and Information Management (AIM) team in India.
+The Spec Analytics Intmd Analyst will independently handle analytics requirements and have the aptitude to solve complex problems. Will apply analytical thinking and knowledge of data analysis tools and methodologies. Will have the right attention to detail when making judgments and recommendations based on the analysis of factual information. Will apply professional judgment when interpreting data and results and break down information in a systematic and communicable manner. Will have excellent communication skills to exchange potentially complex/sensitive information
+Responsibilities:
+Analytics project execution
+Ability to manage & develop analytic solutions to deliver on complex projects Measure & Own the business impact of work, Set and manage partner expectations, Manage timeliness around project priorities
+Improves business processes to drive efficiencies Is able to coach/ mentor junior team members on theory/ practical applications of relevant tools & techniques
+Business Knowledge
+Develop business context and knowledge. Proactively seek out best practices and adopt the same in day to day functioning.
+Communication:
+Independently manage communication with Global partners Team work:
+Collaborate with colleagues to leverage best practices
+Qualifications:
+4-7 years relevant experience
+Have the ability to retrieve and manipulation data
+Possess analytic ability and problem solving skills
+Working experience in a quantitative field
+Willing to learn and can-do attitude Excellent communication and interpersonal skills, be organized, detail oriented, flexible and adaptive to matrix work environment
+Ability to build partnerships with cross-function leaders Experience in big data environments - Hadoop, HIVE, Scala as well as RDBMS - Teradata / Oracle etc.
+Exposure to machine learning / deep learning algorithms and expertise in Python / Pyspark / R etc.
+Experience / knowledge of corporate / commercial banking industry will be an added advantage
+Education:
+Masters in Computer Science, Mathematics, Operations Research, Statistics, Econometrics, Economics, Business Administration, Management Science and related fields
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required
+-
+Grade :All Job Level - All Job FunctionsAll Job Level - All Job Functions - IN
+-
+Time Type :
+-
+Citi is an equal opportunity and affirmative action employer.
+
+Minority/Female/Veteran/Individuals with Disabilities/Sexual Orientation/Gender Identity.
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity .
+To view the ""EEO is the Law"" poster . To view the EEO is the Law Supplement .
+
+To view the EEO Policy Statement .
+
+To view the Pay Transparency Posting .",""
+"1579460158-4676","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Data Scientist","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DdajEbCx-KXIxdKnFi7XLqE9Qtjjzr22qLs4cyUK8MQF4nVAY29gg5zMlraYgZpSPvyDiNxWKulPlE1J0TmJQ5WH7p1JJwz6Upyx2QE1NpLRlf0BP-FvUikJXY3BigFQlVc10vnNLytl77bWpYcUGtTVEYD3r7P_PiKSwQm-3OMKmCFYw16OBvRSFhUU1d_aodblpOz4uGdNlkvScM8axYkF-kP6pAkOL0igvjIsxE_1h8QDH2MpuZ_kzay6Q68p2qLvv59X00UOgBgcpw2PTqv-VbJw9uoXar_E1_x5GM1Wywwm1wBBtq9VBkCIFGjkz_zJMX_m1bW_GXn93M-Z-Ju-Ni_2x4jImb-ajJ4VYZv6UlsHrDyDjEPz7T7ahSDwBtKkscV4_FAipnnwSIx7QyaOjsM9Oa_OV8SKb7JTcQaw_5qCviN6Y5&p=13&fvj=1&vjs=3","Analytics Saves At Work India Pvt Ltd.","","",""
+"1579460193-4727","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analyst/ Manager","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DqGgu-faEbBWMchzyPLP9Vj4J3N3T6jUHOrZsFY-BAIG0hzx8_GP5VWPiksXlisx80xvIN9xHbYParqoZFwPGmdHLslsvSgEboQd1NG5KCXw0Vn-DZr8RlfjXrV-6kC1JLg33QK2v-VDbMI_QuAm7ODk0L8Mu4QBc4aQEqzwzZqyX_GoiZ9W5UjRAe7z7KRaci7ABtv7ZTFgNzxcBMPvp0I95nvTv0l1ze_05BdIYWX6ujS5sAIibS6WIzY-7r6dX3x_XCrMcRgvqGbJmYMxO3vDto74xC8oFBOF5bOl6eJ0Aoo1d20iUf0b7QSM3wP0Rx8hMIV616mdADxySpLWM9f6o-TnkxuI6vT0Cu5tJ-HuGdxMsDzgRkqXmEV-5S6XjQ7nv3HiGqApcri9fzQk5MUq8cv6lT5qqRZbB3MRnR2g==&p=1&fvj=0&vjs=3","","","","Business Analyst/ Manager"
+"1579460196-4730","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Business Analyst","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0B33zOFN8GLzgQsRxgvJtNYlcIUZ-r8_DOeeUSief12Qz55-o9dfT9UC-OgCwBgQ1YwbnFkwL-zuMMsbLg4y3wRiZChMGNPbOUacPDlwOnqqVeNkwT6z86PrvlhKo0ZYrWFufGnfOVppZN8fZrbG7IOGT21devuQpTwO4afI5ohxfEg8o-1CbUs7gCvpF9-g1lNbd51d1n2QXpZ_JXsbXH8_6lq-ssRujl3wsLAkE5-ZKibIi3Vye0dX2hyiIcaqZDmn-AYabnw6Bu8w905FSi7Ra4qOSl_hwAqM94FgWdU9TqIddr2UhI6gd6wurrO9Mv-wKkA0fWcy4wsGPuNypxSFfeGS0OedETsZlqK8rbaXZKa8vV7k6lSRicsLNWy8FFoUPniW11RG9oLPfs_EJW1na9gAPP8XE4-I5na6kwxXgaLqfLz3qH_3WBxMdSgkrZ3em-O_UIvcLN5Pt9t6G9a&p=0&fvj=0&vjs=3","","","P&G was founded over 180 years ago as a simple soap and candle company. Today, we're the world’s largest consumer goods company and home to iconic, trusted brands that make life a little bit easier in small but meaningful ways. We've spanned three centuries thanks to three simple ideas: leadership, innovation and citizenship.
+
+
+
+The insight, innovation and passion of hardworking teams has helped us grow into a global company that is governed responsibly and ethically, that is open and transparent, and that supports good causes and protects the environment. This is a place where you can be proud to work and do something that matters
+
+
+
+About the Role:
+
+Business Analysts (BA) at P&G are an authority group belonging to the Analytics & Insight Department. BA provides the expertise and proficiency in data-based analytics about consumer, retailers and market understanding and insight. The core work is to identify & activate growth opportunities for our brands at country/ trade channels/ and specific retailers levels. We do this through outstanding analytics and deep insights based on data and advanced analytic & statistical tools. Our analytics is a combination of insight and foresight. Business Analysts deliver P&G business goals by using data and analytics to derive actionable consumer and business insights
+
+
+
+Key Responsibilities:
+
+Embed data analytics & decisions into P&G's monthly business process, based on both external data (e.g. market share and household consumption) and internal data (e.g. sales data).
+
+
+
+Lead category/channel deep-dives (e.g. Baby Care/shave Care/Skin Care or Hyper Super/ Drug Pharma / e-commerce) to identify portfolio opportunities / business drivers opportunities to accelerate business.
+
+
+
+Improve Media/Trade efficiency and enable media/trade cost saving by running analytics.
+
+
+
+Data science or innovation projects to seek existing business questions differently by IoT, automation, external data, etc.
+
+
+
+Overall work would be a good mix of delivering today (70-80% time/capacity) and crafting tomorrow (20-30% on innovation/data science projects).
+
+
+
+Skills Required:
+
+Ability to query and analyze data on a big data environment.
+
+
+
+Ability to develop attributive and predictive models, based on deep-dive statistical analysis & modeling
+
+
+
+Ability to demonstrate, translate and communicate complex data or algorithms into simple conclusions and business actionable insights
+
+
+
+Excellent collaboration skills and the ability to work within diverse organizations and teams
+
+
+
+Bachelors or Masters (preferred) in Business Analytics or Statistics or Engineering or Computer Science or Physical SciencesPreferred Coursework / Experience (not a must):
+
+
+
+Knowledge Areas: Statistics and its application to Attributive & Predictive Modeling; Machine Learning, Big data Mining and AI.
+
+
+
+Statistical Packages: Matlab, SPSS, SAS
+
+
+
+Programming / Database Languages: Python, R, SQL
+
+
+
+Visualization Tools: Power BI, Spotfire, Tableau
+
+
+
+Platforms: Knowledge / experience with Hadoop, SPARK
+
+
+
+Experience: Participated in Kaggle or any other data analytics competition
+
+
+
+Dedication from us:
+
+You'll be at the core of breakthrough innovations, be given exciting assignments, lead initiatives, and take ownership and responsibility, in creative work spaces where new ideas flourish. All the while, you'll receive outstanding training to help you become a leader in your field. It is not just about what you'll do, but how you'll feel: welcomed, valued, purposeful, challenged, heard, and inspired.
+
+
+
+What we offer:
+
+Continuous mentorship – you will collaborate with passionate peers and receive both formal training as well as day-to-day mentoring from your manager
+
+Dynamic and supportive work environment – employees are at the centre, we value every individual and support initiatives, promoting agility and work/life balance.
+
+
+
+Just So You Know:
+
+We are an equal opportunity employer and value diversity at our company. Our mission of Diversity and Inclusion is: “Everyone valued. Everyone included. Everyone performing at their peak”.",""
+"1579460164-4687","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Intermediate analyst - business analytics","https://www.indeed.co.in/rc/clk?jk=1cf23ac8ad2b2c8e&fccid=5bcd1ef0a7f4fb99&vjs=3","","","","Intermediate analyst - business analytics"
+"1579460158-4677","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Data Scientist","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DdajEbCx-KXIxdKnFi7XLqE9Qtjjzr22qLs4cyUK8MQF4nVAY29gg5zMlraYgZpSPvyDiNxWKulPlE1J0TmJQ5WH7p1JJwz6Upyx2QE1NpLRlf0BP-FvUikJXY3BigFQlVc10vnNLytl77bWpYcUGtTVEYD3r7P_PiKSwQm-3OMKmCFYw16OBvRSFhUU1d_aodblpOz4uGdNlkvScM8axYkF-kP6pAkOL0igvjIsxE_1h8QDH2MpuZ_kzay6Q68p2qLvv59X00UOgBgcpw2PTqv-VbJw9uoXar_E1_x5GM1Wywwm1wBBtq9VBkCIFGjkz_zJMX_m1bW_GXn93M-Z-Ju-Ni_2x4jImb-ajJ4VYZv6UlsHrDyDjEPz7T7ahSDwBtKkscV4_FAipnnwSIx7QyaOjsM9Oa_OV8SKb7JTcQaw_5qCviN6Y5&p=13&fvj=1&vjs=3","","Bengaluru, Karnataka","",""
+"1579460186-4718","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Consultant","https://www.indeed.co.in/rc/clk?jk=e40601f41f2e2293&fccid=f8c591fec900fe57&vjs=3","","","Bangalore, India
+
+izmo, the world leaders in automotive visual marketing and business analytics, is looking for a Business Analytics Consultant. The incumbent should possess excellent business perspective, data understanding, and communication skills, and should be conversant with MS Office.
+
+JOB DESCRIPTION
+As a Business Analytics Consultant you will review the comprehensive set of analyses we produce, determine business gaps and opportunities, and run consulting sessions over conference calls with the leadership teams of clients and prospects.
+QUALIFICATIONS AND SKILLSETS
+Outstanding business perspective, data understanding
+Excellent communication skills
+Ability to work closely with internal teams and external contacts
+Flexibility to adapt to a dynamic business environment
+Excellent time management skills with ability to multi-task and prioritize to meet deadlines
+Good in Microsoft office",""
+"1579460158-4679","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Data Scientist","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DdajEbCx-KXIxdKnFi7XLqE9Qtjjzr22qLs4cyUK8MQF4nVAY29gg5zMlraYgZpSPvyDiNxWKulPlE1J0TmJQ5WH7p1JJwz6Upyx2QE1NpLRlf0BP-FvUikJXY3BigFQlVc10vnNLytl77bWpYcUGtTVEYD3r7P_PiKSwQm-3OMKmCFYw16OBvRSFhUU1d_aodblpOz4uGdNlkvScM8axYkF-kP6pAkOL0igvjIsxE_1h8QDH2MpuZ_kzay6Q68p2qLvv59X00UOgBgcpw2PTqv-VbJw9uoXar_E1_x5GM1Wywwm1wBBtq9VBkCIFGjkz_zJMX_m1bW_GXn93M-Z-Ju-Ni_2x4jImb-ajJ4VYZv6UlsHrDyDjEPz7T7ahSDwBtKkscV4_FAipnnwSIx7QyaOjsM9Oa_OV8SKb7JTcQaw_5qCviN6Y5&p=13&fvj=1&vjs=3","","","","Data Scientist"
+"1579460164-4684","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Intermediate analyst - business analytics","https://www.indeed.co.in/rc/clk?jk=1cf23ac8ad2b2c8e&fccid=5bcd1ef0a7f4fb99&vjs=3","CITI17,126 reviews","","",""
+"1579460172-4696","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics consultant (Advance Analytics)","https://www.indeed.co.in/rc/clk?jk=47cfd0008b720653&fccid=6742d0c4775028dd&vjs=3","Bloom Consulting Services2 reviews","","",""
+"1579460170-4694","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Manager | Senior Business Analytics Manager","https://www.indeed.co.in/rc/clk?jk=4f40ec867bd961b0&fccid=95fa2b94b684ec6b&vjs=3","","","Help end users navigate the data and reporting to solve business problems
+Complete report writing, MS SQL database querying, and data analysis
+Develop SQL scripts to load data from multiple sources into a data mart
+Develop and maintain automated reports and dashboards using SQL Server, SSRS, or Tableau
+Manage data loads, security, and integrity of a data mart
+Gather business requirements from end-users and translate them into a meaningful product
+Troubleshoot and fix of data loads and other issues within a data mart
+Back to Description
+Cerner Jobs and Careers
+
+
+Engineering & Technology
+Innovation occurs everywhere but maybe you are also looking for a purpose. Nothing is more impactful than improving the health of others. Develop cutting edge technologies that have real meaning.
+Qualifications
+Basic: Bachelors - Business Administration
+Basic: Bachelors - Communications
+Basic: Bachelors - Health Care
+Basic: Bachelors - Marketing
+Additional Information
+
+All employees must be legally authorized to work in the country where the position is located. Work visa sponsorship is not available for this position.
+Relocation Assistance Available for this Job:
+No
+Virtual Eligible Job
+No
+Cerner is a place where people are encouraged to innovate with confidence and focus on what is important – people’s health and the care they receive. We are transforming health care by developing tools and technologies that make it more efficient for care providers and patients to navigate the complexity of our health. From single offices to entire countries, Cerner solutions are licensed at more than 25,000 facilities in over 35 countries.
+
+
+
+Cerner’s policy is to provide equal opportunity to all people without regard to race, color, religion, national origin, ancestry, marital status, veteran status, age, disability, pregnancy, genetic information, citizenship status, sex, sexual orientation, gender identity or any other legally protected category. Cerner is proud to be a drug-free workplace.
+If you are an individual with a disability who is unable to use our online tools to search and apply for jobs, and need assistance or an accommodation in the recruiting process, please contact us by calling 866-434-1543 or by emailing HRServiceCenter@cerner.com.",""
+"1579460172-4698","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics consultant (Advance Analytics)","https://www.indeed.co.in/rc/clk?jk=47cfd0008b720653&fccid=6742d0c4775028dd&vjs=3","","","Job Responsibilities:
+Work as an analyst handling analytical problems from India. Should be able to handle client
+conversations independently
+Knowledge, Skills and Experience:
+1.5 to 3 years’ experience in analytics
+Should be from top engineering colleges in India
+Strong SQL and Excel skills
+Exposure to Tableau
+Nice to have R / Python skills
+Good problem-solving skills (Aptitude and Approach)
+
+What You Need for this Position
+You should have knowledge of:
+SQL
+Tableau
+R / Python
+Aditional
+No. of Positions
+Education level
+Career level
+Experienced",""
+"1579460175-4702","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Analytics Practice Lead - Business Analytics","https://www.indeed.co.in/rc/clk?jk=f7df5dc70ca8e113&fccid=e4af9ca5b6d3a604&vjs=3","","","Job Title
+Analytics Practice Lead - Business Analytics
+Job Description
+Assess solutions for business opportunities by leveraging data (Transnational Data/ Big Data, External and Internal Data, Structured and Unstructured Data) and analytics methods.
+Provide consulting, advice and support in analytics. Furthermore, will build the application related part of analytics knowledge base in the organization.
+As Practice Lead , will develop and implement strategic direction and operational processes for the respective analytics domain(s). Provides direction and guidance for operations, administration and results for the Business analytics team. Furthermore, will assess business opportunities and promote use of analytics with in domain and build internal and external resources and expertise
+Support business in their decision making needs (Operational/ Strategic) by providing insights from Data.
+Deliver high impact Business insights enabled by Analytics to various functions under the Philips Group Operations. (Markets/ BGs/ Functions would also be consumers of the related Insights from Group Operations)
+Drive Digital Innovation and deliver Value services to enable the Group Operations Transformation agenda. Enable improvement programs across Philips Sites- using levers such as process automation, digital technologies, analytics, artificial intelligence, etc
+Harmonize and optimize various Analytics efforts happening under the wider Group Operations to maximize ROI from data & analytics for Philips
+Key Areas of Responsibilities
+Analytical bent of mind
+Expertize in translating business requirements for analytics solution-ing
+Business acumen and articulation skills
+Expertize in analytics techniques, methods and tools
+Ability to manage stakeholders and interaction with senior leaders within the organisation
+Ability to presents facts based on data and in working with large quantum of data
+Have domain knowledge & Business context across the multiple functions in an Organization - accelerating the ability to 'connect the dots' across the breadth & depth of large Organizations to enable Business results
+Experience in the areas of analytics, exposure to emerging digital technologies/ landscape
+Experience & Qualifications
+Ability to communicate clearly (oral, written and remote) to remote audience with clear business articulation
+Expertise in multiple tools and techniques and analytics solution designing
+Understands and supports advanced analytics solutions for 1 or 2 business domains
+Manages business champions and interactions with business sponsors
+Creating and managing new opportunities
+Identification and influencing of potential stakeholders
+Identifying and leveraging domain across the organization
+Keep abreast with latest develop in analytics domain, emerging technology and continuously seek for industry best practices in analytics and business transformation (ex: Lean, Six Sigma)
+Advises business leaders in the domain where analytics can contribute.
+Year of industry Exp: 10 – 15 Years; Relevant Exp in analytics domain: 8+ years
+Contact
+If you forgot your password, you can click the Forgot Password button on the Sign In screen to reset it.
+If you have any other questions regarding the recruitment process please refer to our FAQs. In case of technical difficulties with the website, please send an email to careersite@philips.com.
+
+(Note: To ensure fairness and legal compliance in our recruitment processes, only technical issues will be monitored through the above inbox. Please do not submit resumes or applications to this email, as they will not be reviewed. Only applications received through the online application process will be considered.)",""
+"1579460181-4708","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Internship","https://www.indeed.co.in/rc/clk?jk=d960a9e9127b30f5&fccid=9ccd90e7721aa0ab&vjs=3","Trikara Technologies Private Limited","","",""
+"1579460181-4710","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Internship","https://www.indeed.co.in/rc/clk?jk=d960a9e9127b30f5&fccid=9ccd90e7721aa0ab&vjs=3","","","About the company:
+Trikara is a startup IT services company. It specializes in developing and maintaining software and servers for startups and enterprises. Our company philosophy is to create the kind of a website, an application that most businesses want easy to find, stylish and appealing, quick loading, mobile responsive and easy to buy from. We provide end-to-end solutions for your IT infrastructure, from inception to development to deployment to maintenance!
+About the internship/job:
+Selected intern's day-to-day responsibilities include: 1. Interviewing business users to understand and document data requirements including elements, entities, and relationships 2. Developing & delivering scorecards/dashboards/storyboards 3. Assisting in program management of a suite of initiatives that could be group-specific, vertical or BU specific 4. Documenting operational processes and helping in specific processes and automation improvements 5. Engaging with internal stakeholders to understand business needs 6. Developing and producing on-going reporting on scorecard trends, performance, and issues to key constituents 7. Developing & delivering rich intuitive Tableau dashboards for business users 8. Migrating existing manual reports to Tableau, maintenance, and enhancements 9. Working independently with the stakeholder for requirement elicitation, analysis, and documentation
+Who can apply:
+Only those students or freshers can apply who:
+are available for full time (in-office) internship
+have relevant skills and interests
+can start the internship between 14th Jan'20 and 13th Feb'20
+are available for duration of 3 months
+have already graduated or are currently in any year of study
+Females willing to start/restart their career may also apply
+Number of internships/jobs available: 1
+Categories: Analytics,Data Science",""
+"1579460178-4707","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Business Analytics","https://www.indeed.co.in/company/ennVee-Technogroup/jobs/Senior-Business-Analytic-69d784b049ba9b53?fccid=292ed49d5d002fe8&vjs=3","","","","Senior Business Analytics"
+"1579460162-4682","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Head - Business Analytics","https://www.indeed.co.in/rc/clk?jk=603e1edb16fc7ce0&fccid=4d4dc796bd7ac23e&vjs=3","","","The incumbent would be responsible for analyzing business, processes or systems. Further assessing the business model and its integration with technology.
+
+Please click on the respective openings to read the complete Job Description. Get in touch if there’s a role that seems like a good match and you may mail your resume to jobs@waterhealth.com with the position and the job code applied for as the subject line",""
+"1579460184-4715","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Cons 2","https://www.indeed.co.in/rc/clk?jk=466cc6fb611cb476&fccid=78bbcd26e39621f5&vjs=3","","","","Business Analytics Cons 2"
+"1579460178-4706","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Business Analytics","https://www.indeed.co.in/company/ennVee-Technogroup/jobs/Senior-Business-Analytic-69d784b049ba9b53?fccid=292ed49d5d002fe8&vjs=3","","","Job Summary
+Position: Senior Business Analytics Consultant
+Experience:  5 **- 10 years
+Salary:  Negoitable
+Work Location:  Bangalore / Chennai
+Position Type:  Full Time - Permanent
+Job ResponsibilitiesAt least 5 years of experience working on IBM Cognos. Current experience MUST include Cognos version 11.Strong in Report Studio / Reporter development against dimensional data sources including TM1 using advanced MDX programming is a MUST.Other experience should include:Experience working with both business and IT.Ability to work independently or as part of a team.Ability to analyze complex business requirements, design and develop proposed solutions.Experienced with designing, developing, enhancing and maintaining Framework Manager models (DMR/RMR) to support business requirements.Experienced in developing IBM Cognos Analytics data modules and dashboards.Experienced with all the Cognos SDLC processes.Experienced with both transactional data processing and data warehousing needed.Strong DW Concepts and BI OLAP Reporting concepts.Experience in Performance tuning of the existing reports developed in version 10 leveraging the newer features from version 11.Experience in Java scripting and CSS is a big plus.Good communication skills, attention to detail, and driven to bring successful client projects.Thanks & Regards,
+Lipsha
+ennVee  * Delivering tomorrow’s solutions, today.
+m:  7893097587 w* www.ennvee.com | LinkedIn*
+a #53, Chennamma Kalyana Manatapa Road, 2nd Cross,
+1st Main Road,RMV 2nd Stage,Bangalore – 560094
+Key Skills
+IBM Cognos Analytics, Business Analytics, cognostm1, cognos biJob Type: Full-timeSalary: ₹500,000.00 to ₹1,300,000.00 /yearExperience:total work: 4 years (Preferred)Benefits:OtherFlexible work hoursProvident fund (PF)Health insuranceIndustry:Software Development",""
+"1579460162-4683","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Head - Business Analytics","https://www.indeed.co.in/rc/clk?jk=603e1edb16fc7ce0&fccid=4d4dc796bd7ac23e&vjs=3","","","","Head - Business Analytics"
+"1579460196-4731","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Business Analyst","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0B33zOFN8GLzgQsRxgvJtNYlcIUZ-r8_DOeeUSief12Qz55-o9dfT9UC-OgCwBgQ1YwbnFkwL-zuMMsbLg4y3wRiZChMGNPbOUacPDlwOnqqVeNkwT6z86PrvlhKo0ZYrWFufGnfOVppZN8fZrbG7IOGT21devuQpTwO4afI5ohxfEg8o-1CbUs7gCvpF9-g1lNbd51d1n2QXpZ_JXsbXH8_6lq-ssRujl3wsLAkE5-ZKibIi3Vye0dX2hyiIcaqZDmn-AYabnw6Bu8w905FSi7Ra4qOSl_hwAqM94FgWdU9TqIddr2UhI6gd6wurrO9Mv-wKkA0fWcy4wsGPuNypxSFfeGS0OedETsZlqK8rbaXZKa8vV7k6lSRicsLNWy8FFoUPniW11RG9oLPfs_EJW1na9gAPP8XE4-I5na6kwxXgaLqfLz3qH_3WBxMdSgkrZ3em-O_UIvcLN5Pt9t6G9a&p=0&fvj=0&vjs=3","","","","Senior Business Analyst"
+"1579460167-4688","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Concur-Business Analyst","https://www.indeed.co.in/rc/clk?jk=f61ac44b07442305&fccid=8d25321c1defe73f&vjs=3","Wipro LTD13,662 reviews","","",""
+"1579460190-4722","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Data Scientist","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DdajEbCx-KXIxdKnFi7XLqE9Qtjjzr22qLs4cyUK8MQI40m7Y7grAUgD4m1-lwrn7oSjvGdClBqiRQ3Epce7SRBVXOfFVUcfqc33rCFhN5OYJGSl8LikQA2T3AcoctXUgqiuUdJDzM-xt6R81chgRkdTqt1H8AYF_j-VlP8xVziKLCDHd10VbHVeBrzAM3qwEhyZskwmcttqx9nQaZWp9jkT6PUPJCofAPCbf4nN5tQ1nadJfTG6Usd7s0mZywfvibiWFtHpkD7UlNB-6iWe-bIikCI-ImxM-pHyJtJW0k1-TNzO-r8O7eU6su1oS_S4l20MfhYS0irJxqOMgshMs6I6ZxYNQLTKb2pA29TGBGHdU-6sYEJYhsPZtBR17D_5YPQp7dsd1-EnF0tA44aGcjrydXZYkERfbyMqhWG7sYIBUVNWPZ3c0wnG-_NnnAOME=&p=2&fvj=1&vjs=3","","","Job Summary
+Our Client is looking for an experienced Senior Data Scientist with extensive predictive Modeling and machine learning experience to join our Commercial Analytics and Insights Team, which applies advanced Data Science (DS), Artificial Intelligence (AI) and Machine Learning (ML) to produce solutions that drive marketing optimization and sales growth.
+Using state of the art AI tools, DS platforms, ML libraries, and optimization tools, we leverage internal, external, online and offline data sources.
+The person in this role would be responsible for conducting data analysis and developing predictive models leveraging data science and machine learning to solve various business use cases, including marketing intelligence, customer segmentation, and predictive models for sales and marketing organization. We are looking for a candidate who will support our product, sales, leadership and marketing teams with insights gained from analyzing the company and external data.
+Who can communicate with others with a statistical mindset, and can conduct exploratory analysis during data preparation and beyond.
+The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+Responsibilities and DutiesUnderstand the business problem in Global B2B marketing and sales analytics domains to create value for the business, clients, customers, and providers, and identify critical questions that can be answered with AI or DS.Scrub, clean, prepare and browse the data: fill in missing data values, determine outliers, regularize and normalize the data (e.g., names), engineer features, and transform it into a more useful form.Explore and visualize the data using tools such as Python modules including pandas, matplotlib, bokeh, and Seaborn, Tableau, and Looker.Build, evaluate, and document the modelsGenerate plausible explanations for presentation to stakeholders and deployment.Communicate results and ideas to key decision-makersWork with data engineers to deploy the models, build data pipelines, and scalable systems.Work with stakeholders to identify opportunities for leveraging company data to drive business analytics solutions.Research and develop statistical learning models for data analysisIdentify valuable data sources and automate collection processesUndertake preprocessing of structured and unstructured dataAnalyze large amounts of information to discover trends and patternsBuild predictive models and machine-learning algorithmsPresent information using data visualization techniquesCollaborate with sales, marketing, and senior executive teamsRequired Experience, Skills and QualificationsMinimum 8 years of relevant experienceMS/Ph.D. in Computer Science, Math, Statistics, or in any technical field that provides a solid basis for analytics or equivalent work experienceExcellent understanding/experience with leading machine learning methods such as neural networks, deep learning, KNN, Naive Bayes, SVM, Lasso Regression, Elastic Net Regression, Boosting and Bagging Random Forest, XGBoost, Association Rules, Cross-Validation Method, and Unsupervised Learning and their real-world advantages/drawbacks.Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.Experience with Hive and database access languages such as SQL and storage platforms such as S3.Experience with distributed computing platforms such as Hadoop and Spark is a plus.Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.Experience using advanced statistical techniques and concepts (regression, properties of distributions, statistical tests, and proper usage, etc.) and experience with applications.Experience using business intelligence tools (e.g. PowerBI, Tableau) and data frameworks (e.g. SAS, Tera Data, Hadoop)Strong problem-solving skills with an emphasis on sales and marketing predictive analytics.Excellent written and verbal communication skills for coordinating across teams.A drive to learn and master new technologies and techniques.Job Type: Full-timeExperience:total work: 8 years (Preferred)Education:Master's (Required)Industry:Insurance",""
+"1579460196-4728","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Business Analyst","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0B33zOFN8GLzgQsRxgvJtNYlcIUZ-r8_DOeeUSief12Qz55-o9dfT9UC-OgCwBgQ1YwbnFkwL-zuMMsbLg4y3wRiZChMGNPbOUacPDlwOnqqVeNkwT6z86PrvlhKo0ZYrWFufGnfOVppZN8fZrbG7IOGT21devuQpTwO4afI5ohxfEg8o-1CbUs7gCvpF9-g1lNbd51d1n2QXpZ_JXsbXH8_6lq-ssRujl3wsLAkE5-ZKibIi3Vye0dX2hyiIcaqZDmn-AYabnw6Bu8w905FSi7Ra4qOSl_hwAqM94FgWdU9TqIddr2UhI6gd6wurrO9Mv-wKkA0fWcy4wsGPuNypxSFfeGS0OedETsZlqK8rbaXZKa8vV7k6lSRicsLNWy8FFoUPniW11RG9oLPfs_EJW1na9gAPP8XE4-I5na6kwxXgaLqfLz3qH_3WBxMdSgkrZ3em-O_UIvcLN5Pt9t6G9a&p=0&fvj=0&vjs=3","Procter & Gamble","","",""
+"1579460172-4697","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics consultant (Advance Analytics)","https://www.indeed.co.in/rc/clk?jk=47cfd0008b720653&fccid=6742d0c4775028dd&vjs=3","","Bengaluru, Karnataka","",""
+"1579460196-4729","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Business Analyst","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0B33zOFN8GLzgQsRxgvJtNYlcIUZ-r8_DOeeUSief12Qz55-o9dfT9UC-OgCwBgQ1YwbnFkwL-zuMMsbLg4y3wRiZChMGNPbOUacPDlwOnqqVeNkwT6z86PrvlhKo0ZYrWFufGnfOVppZN8fZrbG7IOGT21devuQpTwO4afI5ohxfEg8o-1CbUs7gCvpF9-g1lNbd51d1n2QXpZ_JXsbXH8_6lq-ssRujl3wsLAkE5-ZKibIi3Vye0dX2hyiIcaqZDmn-AYabnw6Bu8w905FSi7Ra4qOSl_hwAqM94FgWdU9TqIddr2UhI6gd6wurrO9Mv-wKkA0fWcy4wsGPuNypxSFfeGS0OedETsZlqK8rbaXZKa8vV7k6lSRicsLNWy8FFoUPniW11RG9oLPfs_EJW1na9gAPP8XE4-I5na6kwxXgaLqfLz3qH_3WBxMdSgkrZ3em-O_UIvcLN5Pt9t6G9a&p=0&fvj=0&vjs=3","","Mumbai, Maharashtra","",""
+"1579460175-4703","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Analytics Practice Lead - Business Analytics","https://www.indeed.co.in/rc/clk?jk=f7df5dc70ca8e113&fccid=e4af9ca5b6d3a604&vjs=3","","","","Analytics Practice Lead - Business Analytics"
+"1579460186-4717","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Consultant","https://www.indeed.co.in/rc/clk?jk=e40601f41f2e2293&fccid=f8c591fec900fe57&vjs=3","","Bengaluru, Karnataka","",""
+"1579460178-4704","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Business Analytics","https://www.indeed.co.in/company/ennVee-Technogroup/jobs/Senior-Business-Analytic-69d784b049ba9b53?fccid=292ed49d5d002fe8&vjs=3","ennvee solutions","","",""
+"1579460190-4720","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Data Scientist","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DdajEbCx-KXIxdKnFi7XLqE9Qtjjzr22qLs4cyUK8MQI40m7Y7grAUgD4m1-lwrn7oSjvGdClBqiRQ3Epce7SRBVXOfFVUcfqc33rCFhN5OYJGSl8LikQA2T3AcoctXUgqiuUdJDzM-xt6R81chgRkdTqt1H8AYF_j-VlP8xVziKLCDHd10VbHVeBrzAM3qwEhyZskwmcttqx9nQaZWp9jkT6PUPJCofAPCbf4nN5tQ1nadJfTG6Usd7s0mZywfvibiWFtHpkD7UlNB-6iWe-bIikCI-ImxM-pHyJtJW0k1-TNzO-r8O7eU6su1oS_S4l20MfhYS0irJxqOMgshMs6I6ZxYNQLTKb2pA29TGBGHdU-6sYEJYhsPZtBR17D_5YPQp7dsd1-EnF0tA44aGcjrydXZYkERfbyMqhWG7sYIBUVNWPZ3c0wnG-_NnnAOME=&p=2&fvj=1&vjs=3","Analytics Saves At Work India Pvt Ltd.","","",""
+"1579460162-4680","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Head - Business Analytics","https://www.indeed.co.in/rc/clk?jk=603e1edb16fc7ce0&fccid=4d4dc796bd7ac23e&vjs=3","WaterHealth","","",""
+"1579460164-4685","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Intermediate analyst - business analytics","https://www.indeed.co.in/rc/clk?jk=1cf23ac8ad2b2c8e&fccid=5bcd1ef0a7f4fb99&vjs=3","","Bengaluru, Karnataka","",""
+"1579460184-4714","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Cons 2","https://www.indeed.co.in/rc/clk?jk=466cc6fb611cb476&fccid=78bbcd26e39621f5&vjs=3","","","About Wells Fargo
+Wells Fargo & Company (NYSE: WFC) is a leading global financial services company with $2.0 trillion in assets and offices in over 37 countries. Founded in 1852 and headquartered in San Francisco, Wells Fargo provides asset management, capital raising and advisory, financing, foreign exchange, payments, risk management, and trade finance services to support customers who conduct business in the global economy. At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We also value the viewpoints of our team members and encourage them to be their best. Join our diverse and inclusive team where you will feel valued and inspired to contribute your unique skills and experience. We are looking for talented people who will put our customers at the center of everything we do. Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you. Learn more at our International Careers website.
+
+Market Job Description
+
+
+About Enterprise Global Services
+
+Enterprise Global Services (EGS) enables global talent capabilities for Wells Fargo Bank NA., by supporting over half of Wells Fargo's business lines and staff functions across Technology, Business Services, Risk Services and Knowledge Services. EGS operates in Hyderabad, Bengaluru and Chennai in India and in Manila, Philippines. Learn more about EGS at our International Careers website.
+
+
+
+Department Overview
+
+Corporate Model Risk: Wells Fargo’s Corporate Model Risk is responsible for independently overseeing the management of model risk exposures across the enterprise (including governing, monitoring, and reporting on aggregate model risk exposures, model validations, and model oversight across enterprise). This oversight extends to all phases of a model’s life cycle, including identification, development, validation, implementation, finding resolution, usage, performance monitoring, documentation, and retirement.
+
+The Qualitative Model Validation group is responsible for validating and approving all qualitative models used across Wells Fargo. The team’s responsibilities include performing model validations, annual reviews, performance monitoring, and issue management
+
+
+
+About the Role:
+
+The Qualitative Model Validator will be responsible for the quality and completion of model validation to support business activities primarily in the area of Credit Risk or Financial Crimes or Market Risk or PPNR Model Risk or Liquidity / Wholesale Risk.
+
+
+
+
+Responsibilities:
+Ensure credible challenge of models through independent validation process by evaluating all relevant components of models, identifying areas of weakness, working with key stakeholders like model owners to ensure risk commensurate remediation and timely delivery
+Establish reporting and escalation protocols of review results and follow up on identified issues/observations.
+Understand model risk supervisory guidance, Model Risk Management Policy, and current industry best-practices
+Continually work to improve consistency and quality of independent model validation
+Ensure all models within scope are independently validated per expected standards and schedule
+
+
+
+Build and maintain effective working relationships with LOB Model Governance, Model Owners, Model Program team members, and CFMOs across Wells Fargo.
+Market Skills and Certifications
+
+
+Essential Qualifications:
+
+
+
+University degree in statistics, math, engineering, physics, accounting, finance, economics, econometrics, computer sciences, or business/social and behavioral sciences with a quantitative emphasis preferred.
+2+ years of experience in one or a combination of these areas: Finance, Risk Analytics, Fraud Forecasting, Financial Crimes, Operational Risk, Credit Risk, Market Risk, Wholesale & Liquidity Risk or Audit within Financial Services Industry
+Strong analytical skills with high attention to detail and accuracy.
+Excellent communication (verbal and written) skills and experience in building and maintaining partnerships, collaborating across lines of business as well as with corporate partners.
+Experience in producing work of highest quality within tight timelines, as well as creating, maintaining, and supporting processes subject to intense regulatory scrutiny.
+Ability to prioritize work, meet deadlines, achieve goals, and work under pressure in a dynamic and complex environment.
+
+
+Desired Qualifications:
+
+
+
+Proficiency managing databases, spreadsheets, and programming (Knowledge of SQL, SAS and R).
+Ability to apply strong analytical skills and critical thinking to a diverse population of model types.
+Prior model validation or model risk management experience is preferred.
+
+
+We Value Diversity
+At Wells Fargo, we believe in diversity and inclusion in the workplace; accordingly, we welcome applications for employment from all qualified candidates, regardless of race, color, gender, national or ethnic origin, age, disability, religion, sexual orientation, gender identity or any other status protected by applicable law. We comply with all applicable laws in every jurisdiction in which we operate.",""
+"1579460184-4713","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Cons 2","https://www.indeed.co.in/rc/clk?jk=466cc6fb611cb476&fccid=78bbcd26e39621f5&vjs=3","","Bengaluru, Karnataka","",""
+"1579460184-4712","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Cons 2","https://www.indeed.co.in/rc/clk?jk=466cc6fb611cb476&fccid=78bbcd26e39621f5&vjs=3","Wells Fargo37,580 reviews","","",""
+"1579460167-4691","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Concur-Business Analyst","https://www.indeed.co.in/rc/clk?jk=f61ac44b07442305&fccid=8d25321c1defe73f&vjs=3","","","","Concur-Business Analyst"
+"1579460190-4723","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Data Scientist","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DdajEbCx-KXIxdKnFi7XLqE9Qtjjzr22qLs4cyUK8MQI40m7Y7grAUgD4m1-lwrn7oSjvGdClBqiRQ3Epce7SRBVXOfFVUcfqc33rCFhN5OYJGSl8LikQA2T3AcoctXUgqiuUdJDzM-xt6R81chgRkdTqt1H8AYF_j-VlP8xVziKLCDHd10VbHVeBrzAM3qwEhyZskwmcttqx9nQaZWp9jkT6PUPJCofAPCbf4nN5tQ1nadJfTG6Usd7s0mZywfvibiWFtHpkD7UlNB-6iWe-bIikCI-ImxM-pHyJtJW0k1-TNzO-r8O7eU6su1oS_S4l20MfhYS0irJxqOMgshMs6I6ZxYNQLTKb2pA29TGBGHdU-6sYEJYhsPZtBR17D_5YPQp7dsd1-EnF0tA44aGcjrydXZYkERfbyMqhWG7sYIBUVNWPZ3c0wnG-_NnnAOME=&p=2&fvj=1&vjs=3","","","","Senior Data Scientist"
+"1579460167-4690","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Concur-Business Analyst","https://www.indeed.co.in/rc/clk?jk=f61ac44b07442305&fccid=8d25321c1defe73f&vjs=3","","","Mandatory Skills:
+Concur-L2
+Job Description:
+Key skills required for the job are: n Concur-L2, (Mandatory) .As a Business Analyst, you are responsible for interfacing with clients and to gain understanding of requirements/processes through meetings and discussions. You are responsible across areas like requirement definition, execution and evaluation of functional tests, review, testing and analysis. You are expected to be a subject matter expert in a chosen area/function. Minimum work experience: 5 - 8 YEARS
+Roles & Responsibilities:
+Minimum Experience Required: 5-8 YEARS
+
+
+Mandatory Skills: Concur-L2 Business Analysis-L2, Statistical Analysis-L3, Statistical Modeling-L4, Business Analytics, SAS for Statistics-L3
+
+
+Desirable Skills:
+
+
+Language Skills: English Language-L2",""
+"1579460186-4719","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analytics Consultant","https://www.indeed.co.in/rc/clk?jk=e40601f41f2e2293&fccid=f8c591fec900fe57&vjs=3","","","","Business Analytics Consultant"
+"1579460178-4705","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Business Analytics","https://www.indeed.co.in/company/ennVee-Technogroup/jobs/Senior-Business-Analytic-69d784b049ba9b53?fccid=292ed49d5d002fe8&vjs=3","","Bengaluru, Karnataka","",""
+"1579460190-4721","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Senior Data Scientist","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DdajEbCx-KXIxdKnFi7XLqE9Qtjjzr22qLs4cyUK8MQI40m7Y7grAUgD4m1-lwrn7oSjvGdClBqiRQ3Epce7SRBVXOfFVUcfqc33rCFhN5OYJGSl8LikQA2T3AcoctXUgqiuUdJDzM-xt6R81chgRkdTqt1H8AYF_j-VlP8xVziKLCDHd10VbHVeBrzAM3qwEhyZskwmcttqx9nQaZWp9jkT6PUPJCofAPCbf4nN5tQ1nadJfTG6Usd7s0mZywfvibiWFtHpkD7UlNB-6iWe-bIikCI-ImxM-pHyJtJW0k1-TNzO-r8O7eU6su1oS_S4l20MfhYS0irJxqOMgshMs6I6ZxYNQLTKb2pA29TGBGHdU-6sYEJYhsPZtBR17D_5YPQp7dsd1-EnF0tA44aGcjrydXZYkERfbyMqhWG7sYIBUVNWPZ3c0wnG-_NnnAOME=&p=2&fvj=1&vjs=3","","Bengaluru, Karnataka","",""
+"1579460193-4726","https://www.indeed.co.in/jobs?q=""business+Analytics""&l=India&radius=50","Business Analyst/ Manager","https://www.indeed.co.in/pagead/clk?mo=r&ad=-6NYlbfkN0DqGgu-faEbBWMchzyPLP9Vj4J3N3T6jUHOrZsFY-BAIG0hzx8_GP5VWPiksXlisx80xvIN9xHbYParqoZFwPGmdHLslsvSgEboQd1NG5KCXw0Vn-DZr8RlfjXrV-6kC1JLg33QK2v-VDbMI_QuAm7ODk0L8Mu4QBc4aQEqzwzZqyX_GoiZ9W5UjRAe7z7KRaci7ABtv7ZTFgNzxcBMPvp0I95nvTv0l1ze_05BdIYWX6ujS5sAIibS6WIzY-7r6dX3x_XCrMcRgvqGbJmYMxO3vDto74xC8oFBOF5bOl6eJ0Aoo1d20iUf0b7QSM3wP0Rx8hMIV616mdADxySpLWM9f6o-TnkxuI6vT0Cu5tJ-HuGdxMsDzgRkqXmEV-5S6XjQ7nv3HiGqApcri9fzQk5MUq8cv6lT5qqRZbB3MRnR2g==&p=1&fvj=0&vjs=3","","","Job Description
+
+
+Sutherland is seeking an attentive and goal-oriented person to join us as a Lead - Business Analytics. We are a group of forward-thinking and driven individuals. If you are looking to build a fulfilling career and are confident you have the skills and experience to help us succeed, we want to work with you!
+
+
+Leads in this role get to:
+
+
+Impact the Bottom Line: Ensure business requirements are clearly and completely documented in pre-agreed formats and signed off by business users and translated to technical specifications.
+
+
+Ensure Requirements are Met: Ensure functional requirements are fully met by proposed IT solution. Work also on the appreciation and understanding of the Technology platforms including packaged solutions relevant for the industry.
+
+
+Strengthen Relationships: Engage with client in interactive requirement gathering session demonstrating domain and solution knowledge and industry best practices. Work organizing meetings with stakeholders for capturing requirements and turning them into an SRS document.
+
+
+Improve Workflow: Basically, on the development of the requirements of documents, and in functional specs with wire frame diagrams and process charts. Also work on capturing detailed scope of change requests.
+
+
+Keep Sutherland Aligned: Apply best practices for effective communication and problem solving. Develop a detailed project plan to monitor and track progress of various projects.
+
+
+Take the Lead: Successfully manage the relationship with the client and all stakeholders.
+Qualifications
+Our most successful candidates will have:
+Bachelors / Master’s degree from an accredited & reputed college/university with computer science background
+Overall 12+ year’s software development experience
+Prior work experience in gathering requirements and developing Business Requirements Document (BRD), Use Case Model and Use Cases is a must
+Prior work experience in application / product development is a must
+Must have experience in US Healthcare domain
+Familiar with agile software development methodologies (e.g. SCRUM)
+Expect high degree of logical, analytical and problem solving skills
+Team player with passion – who understands and respects personal & cultural differences
+Excellent verbal and written communication skills
+Good Leadership and People Management skills",""
